@@ -2,8 +2,8 @@
 In this code we will get value from user for index of array
 and write array on the screen.
 
-Coder: Barýþ Someroðlu
-Date: 21.11.23 / 02:00 a.m.
+Coder: BarÃ½Ã¾ SomeroÃ°lu
+Date: 07.12.23 / 01:00 a.m.
 */
 
 
