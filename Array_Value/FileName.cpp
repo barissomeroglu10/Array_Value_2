@@ -15,14 +15,14 @@ using namespace std;
 
 int main()
 {
-	int B[5], deger;
+	int B[5], Value;
 
 	for (int i = 0; i < 5; i++)
 	{
 		cout << "Please Enter Value for element of the array: ";
-		cin >> deger;
+		cin >> Value;
 
-		B[i] = deger;
+		B[i] = Value;
 	}
 
 	cout << " " << endl;
